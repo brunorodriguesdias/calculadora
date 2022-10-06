@@ -14,16 +14,20 @@ janela.config(bg=cor1)
 
 todos_valores = ''
 valor_texto = StringVar()
+
+
 def mostrar_valores(evento):
     global todos_valores
     todos_valores = todos_valores + str(evento)
-
     valor_texto.set(todos_valores)
+
 
 def calcula():
     global todos_valores
     resultado = eval(todos_valores)
     valor_texto.set(str(resultado))
+    todos_valores = str(resultado)
+
 
 def limpar_display():
     global todos_valores
