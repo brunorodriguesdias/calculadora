@@ -16,7 +16,7 @@ E com ela vieram alguns métodos novos para posicionamentos de itens na janela, 
 <img src="https://github.com/brunorodriguesdias/calculadora/blob/master/calculadora.jpg"><br>
 
 <h2>Como visualizar o projeto</h2>
-Abra o arquivo calculadora.py
+Abra o arquivo calculadora.py<br>
 Utilizei o pycharm para fazer e rodar o projeto,<br>
 Você pode encontra o programa neste <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">link</a>.<br>
 Caso já possua outro interpretador python instalado pode utilizar também ou pode rodar no terminal python também.
