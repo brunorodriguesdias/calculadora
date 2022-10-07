@@ -19,4 +19,4 @@ E com ela vieram alguns métodos novos para posicionamentos de itens na janela, 
 Abra o arquivo calculadora.py<br>
 Utilizei o pycharm para fazer e rodar o projeto,<br>
 Você pode encontra o programa neste <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">link</a>.<br>
-Caso já possua outro interpretador python instalado pode utilizar também ou pode rodar no terminal python também.
+Caso já possua outro interpretador python instalado pode utiliza-lo ou também pode rodar no terminal python.
